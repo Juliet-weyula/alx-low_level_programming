@@ -3,6 +3,8 @@
 /**
  * main - Entry point
  *
+ * Description: 'Hello world'
+ *
  * return: Always 0 (success)
  */
 
