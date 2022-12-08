@@ -1,12 +1,10 @@
 #include <stdio.h>
 
-
-
 /**
  *
  *  * main - Entry point
  *
- *   *
+ *   *Description: Using prinf
  *
  *    * Return: Always 0 (Success)
  *
