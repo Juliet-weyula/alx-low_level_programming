@@ -11,8 +11,8 @@ int main(void)
 	int a, res;
 
 	for (a = 0; a < 1024; a++)
-		if (i % 3 == 0 || i % 5 == 0)
-			res += i;
+		if (a % 3 == 0 || a % 5 == 0)
+			res += a;
 	printf("%d\n", res);
 	return (0);
 }
